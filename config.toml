@@ -51,7 +51,7 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/tramwaj29"
+  url = "https://github.com/jjanczyszyn"
 
 [[menu.links]]
   weight = 2
@@ -65,7 +65,7 @@ canonifyurls = true
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
   # Default format is: January 2, 2006
-  # dateFormat = "2 January 2006"
+  # dateFormat = "2 January 2006x   "
 
   # Global keywords configuration. Following keywords will be add to every pages
   # keywords = ["development", "next-gen"]
